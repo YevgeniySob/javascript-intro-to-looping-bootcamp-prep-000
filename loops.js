@@ -16,8 +16,8 @@ function whileLoop(n){
   return 'done'
 }
 
-function doWhileLoop(){
-  do ()
+function doWhileLoop(n){
+  do {
   
-  while
+  } while 
 }
